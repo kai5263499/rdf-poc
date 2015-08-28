@@ -1,0 +1,17 @@
+{
+  "name": "plat",
+  "version": "0.0.1",
+  "authors": [
+    "Wes Widener <wes@werxltd.com>"
+  ],
+  "description": "graph poc",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
